@@ -1,0 +1,1 @@
+devops practical1 using github and gitbash by creating a repository
